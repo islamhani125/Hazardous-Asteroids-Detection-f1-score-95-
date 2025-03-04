@@ -50,5 +50,3 @@ The dataset consists of various features related to asteroid properties:
 
 This project showcases the **power of machine learning** in space science and planetary defense. The high F1 score reflects the model's ability to **accurately predict hazardous asteroids**, which could aid in future space monitoring and exploration.
 
-🌟 Feel free to contribute, raise issues, or share feedback! Let's build a safer space together. 🚀
-
